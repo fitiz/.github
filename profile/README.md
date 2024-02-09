@@ -8,6 +8,8 @@ Welcome to Fitiz, a comprehensive fitness application designed to motivate, trac
 -   **Community Engagement:** Connect with a community of fitness enthusiasts to share progress, tips, and encouragement.
 -   **Real-Time Leaderboards:** Track your progress and compete with others in real-time with our dynamic leaderboard system.
 -   **Fitness Metrics Tracking:** Monitor various fitness metrics to analyze and improve your performance over time.
+
+## UI
 -   **Cross-Platform Support:** Access Fitiz on your preferred device with our React Native frontend, ensuring a seamless user experience.
 
 ## Services
