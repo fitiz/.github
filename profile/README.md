@@ -17,19 +17,19 @@ Welcome to Fitiz, a comprehensive fitness application designed to motivate, trac
 -   **Fitness Metrics Tracking:** Monitor various fitness metrics to analyze and improve your performance over time.
 
 ## UI
-![rn](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+[![rn](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/fitiz/fitiz-react-native)
 -   **Cross-Platform Support:** Access Fitiz on your preferred device with our React Native frontend, ensuring a seamless user experience.
 
 ## Services
 
 Fitiz is built using microservices architecture to ensure scalability, flexibility, and robustness. The system is composed of the following services:
 
--   **[Leaderboard Websocket Service](leaderboard-websocket-service):** Manages real-time updates and communications for leaderboards.
--   **Challenge Service:** Handles creation, management, and participation in fitness challenges.
--   **Explore Service:** Facilitates discovery of new locations and challenges.
--   **Fitness Metrics Service:** Collects and processes fitness-related metrics and data.
--   **Location Service:** Manages location data and integration with external mapping services.
--   **User Service:** Manages user accounts, authentication, and profile information.
+-   **[Leaderboard Websocket Service](https://github.com/fitiz/leaderboard-websocket-service):** Manages real-time updates and communications for leaderboards.
+-   **[Challenge Service](https://github.com/fitiz/challenge-service):** Handles creation, management, and participation in fitness challenges.
+-   **[Explore Service](https://github.com/fitiz/explore-service):** Facilitates discovery of new locations and challenges.
+-   **[Fitness Metrics Service](https://github.com/fitiz/fitness-metrics-service):** Collects and processes fitness-related metrics and data.
+-   **[Location Service](https://github.com/fitiz/location-service):** Manages location data and integration with external mapping services.
+-   **[User Service](https://github.com/fitiz/user-service):** Manages user accounts, authentication, and profile information.
 
 ## Getting Started
 
