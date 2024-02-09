@@ -5,9 +5,9 @@
 
 Welcome to Fitiz, a comprehensive fitness application designed to motivate, track, and engage users in health and fitness activities through location-based challenges and community engagement.
 ## Techstack
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=github,githubactions,kubernetes,docker,java,react,redis,spring,gcp,postgres,gradle,kafka" />
-</p>
+
+<img src="https://skillicons.dev/icons?i=java,react,kubernetes,docker,redis,spring,gcp,postgres,gradle,kafka,github,githubactions" />
+
 
 ## Features
 
@@ -17,7 +17,7 @@ Welcome to Fitiz, a comprehensive fitness application designed to motivate, trac
 -   **Fitness Metrics Tracking:** Monitor various fitness metrics to analyze and improve your performance over time.
 
 ## UI
--   **Cross-Platform Support:** Access Fitiz on your preferred device with our React Native frontend, ensuring a seamless user experience.
+-   **Cross-Platform Support:** Access Fitiz on your preferred device with our ![rn](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) frontend, ensuring a seamless user experience.
 
 ## Services
 
