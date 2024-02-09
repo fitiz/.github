@@ -24,7 +24,7 @@ Welcome to Fitiz, a comprehensive fitness application designed to motivate, trac
 
 Fitiz is built using microservices architecture to ensure scalability, flexibility, and robustness. The system is composed of the following services:
 
--   **Leaderboard Websocket Service:** Manages real-time updates and communications for leaderboards.
+-   **[Leaderboard Websocket Service](leaderboard-websocket-service):** Manages real-time updates and communications for leaderboards.
 -   **Challenge Service:** Handles creation, management, and participation in fitness challenges.
 -   **Explore Service:** Facilitates discovery of new locations and challenges.
 -   **Fitness Metrics Service:** Collects and processes fitness-related metrics and data.
