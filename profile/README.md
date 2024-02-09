@@ -1,11 +1,13 @@
-<link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.3/src/app/ci.min.css"
-/>
+
+
 
 # Fitiz - Fitness Application
 
 Welcome to Fitiz, a comprehensive fitness application designed to motivate, track, and engage users in health and fitness activities through location-based challenges and community engagement.
+## Techstack
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=github,githubactions,kubernetes,docker,java,react,redis,spring,gcp,postgres,gradle,kafka" />
+</p>
 
 ## Features
 
