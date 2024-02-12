@@ -29,9 +29,6 @@ Fitiz is built using microservices architecture to ensure scalability, flexibili
 -   **[User Service](https://github.com/fitiz/user-service):** Manages user accounts, authentication, and profile information.
 -   **[Location Service](https://github.com/fitiz/location-service):** (not implemented yet) Manages location data and integration with external mapping services.
 -   **[Explore Service](https://github.com/fitiz/explore-service):** (not implemented yet) Facilitates discovery of new locations and challenges.
--   **[api-gateway](https://github.com/fitiz/api-gateway)**
-
--   **[discovery-service](https://github.com/fitiz/discovery-service)**
 
 **Consumer groups for Kafka:**
 -   **[cs-redis-consumer](https://github.com/fitiz/cs-redis-consumer):** Updates sorted set in Redis + Publishes leaderboard-change topic.
