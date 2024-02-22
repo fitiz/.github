@@ -1,6 +1,9 @@
 # Fitiz
 
 Welcome to Fitiz, a comprehensive fitness application designed to motivate, track, and engage users in health and fitness activities through location-based challenges and community engagement.
+
+[Presentation link](https://drive.google.com/file/d/1JALANEh5uIewjsqVXxsN3mmKTpragPjf/view?usp=sharing)
+
 ## Techstack
 
 <img src="https://skillicons.dev/icons?i=java,react,kubernetes,docker,redis,spring,gcp,postgres,gradle,kafka,github,githubactions" />
